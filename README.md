@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @AmyLouisie
-- 👀 I’m interested in anime & gaming!
-- 🌱 I’m currently learning html & css & javascript
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me twitter, tumblr, discord!
+# 👋 Hi, I'm AmyLouisie!
 
-<!---
-AmyLouisie/AmyLouisie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎮 About Me
+- ❤️ Based in the **UK**
+- 🌸 I'm passionate about **designing**, **gaming** and **gaming**! 
+- 💻 Currently doing a **bachelors degree in IT specialising in Software**.  
+- 🤝 Open to collaborating on **anything exciting**!  
+
+---
+
+## 🚀 Current Focus
+- Improving my front-end development skills.  
+- Exploring more advanced JavaScript frameworks.
+- Getting my uni work done!
+- Moving onto back-end deveolopment in the future.
+
+---
+
+## 📫 How to Reach Me  
+- 🎮 **Discord** – Aimzie
+
+---
+
+## 🌟 Skills
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+</p>
+
+---
+
+## ❤️ Let's Connect!
+Feel free to check out my projects and reach out if you'd like to collaborate!  
