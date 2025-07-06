@@ -2,7 +2,7 @@
 
 ## 🎮 About Me
 - ❤️ Based in the **UK**
-- 🌸 I'm passionate about **designing**, **gaming** and **gaming**! 
+- 🌸 I'm passionate about **designing**, **gaming**! 
 - 💻 Currently doing a **bachelors degree in IT specialising in Software**.  
 - 🤝 Open to collaborating on **anything exciting**!  
 
@@ -18,6 +18,7 @@
 
 ## 📫 How to Reach Me  
 - 🎮 **Discord** – Aimzie
+- 
 
 ---
 
